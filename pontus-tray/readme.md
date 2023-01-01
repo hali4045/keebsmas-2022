@@ -10,7 +10,7 @@ hi pontus
 numbers
 | measurement | value | 
 | --- | --- |
-| typing angle | 10.0° |
+| typing angle | 15.0° |
 | front face height | 7.072 mm |
 | adjusted front height without feet | 8.125 mm |
 | x length | 113.00 mm | 
