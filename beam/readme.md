@@ -1,6 +1,6 @@
 hi zhol 
 
-san fransisco something inspired otd mini styled wedge 60 with seam, o-ring sandwich mount, external weight, and a db 
+san fransisco something inspired otd mini styled wedge 60 with o ring sandwich mount, external weight, and a db 
 
 compatible with h60, bakeneko60 pcb, snop60, etc and [unified daughterboard](https://github.com/Unified-Daughterboard/Unified-Daughterboard) 
 
