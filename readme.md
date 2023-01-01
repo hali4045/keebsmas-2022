@@ -18,4 +18,7 @@ check out the vod [here](https://www.youtube.com/watch?v=VUlBU5tYr_A)
 [pontus tray](https://github.com/hali4045/keebsmas-2022/tree/main/pontus-tray)
 ![image](https://user-images.githubusercontent.com/66137164/210162481-5a239a7e-78de-484f-9f6f-7410743e6b35.png)
 
+[stare](https://github.com/hali4045/keebsmas-2022/tree/main/stare)
+![image](https://user-images.githubusercontent.com/66137164/210162637-d1edd989-0ae2-40fe-bc1d-7842fb3a6b5d.png)
+
 These are for non-commercial use only, and I am not responsible if the files do not work. 
