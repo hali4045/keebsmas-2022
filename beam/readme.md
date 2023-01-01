@@ -28,3 +28,5 @@ hardware
 | weight screws        | 2 | [McMaster-Carr](https://www.mcmaster.com/92125A186/)       |                                                                | |
 | o rings              | ? | [McMaster-Carr (50a)](https://www.mcmaster.com/1173N501/)  | [McMaster-Carr (70a)](https://www.mcmaster.com/9452K364/)      | dash # 261ish and 265ish respectively |
 | 8 mm bumpons         | 4 | [McMaster-Carr](https://www.mcmaster.com/95495K65/)        | [Amazon US](https://www.amazon.com/gp/product/B01ACPT2LU)      | |
+
+These are for non-commercial use only, and I am not responsible if the files do not work. 
