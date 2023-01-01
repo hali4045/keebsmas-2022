@@ -1,6 +1,8 @@
 # keebsmas-2022
 a collection of open source keyboard case designs speedran for keebsmas in support of [diygirls](https://diygirls.org) 
 
+check out the vod [here](https://www.youtube.com/watch?v=VUlBU5tYr_A)
+
 [beam](https://github.com/hali4045/keebsmas-2022/blob/main/beam)
 ![image](https://user-images.githubusercontent.com/66137164/210156911-a856c1e8-eeaf-47ef-b3c4-ea9e9eb3f00d.png)
 
