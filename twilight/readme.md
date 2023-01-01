@@ -1,7 +1,7 @@
 hi laz 
 
 <details> 
-  <summary>jane plate whale side f13 tkl with through weight and cherry lip </summary>
+  <summary>jane plate whaleish side f13 tkl with o ring sandwich mount, through weight, and cherry lip </summary>
    i'm not saying you can't ask me to make this wkl butttt 
 </details>
 
